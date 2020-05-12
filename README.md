@@ -1,2 +1,2 @@
-## this repo use for learning jenkins and integerate with github
+# this repo use for learning jenkins and integerate with github
 
